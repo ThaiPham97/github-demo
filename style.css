@@ -1,0 +1,9 @@
+/* chọn toàn bộ tất cả các thẻ sử dụng selector * */
+/* reset CSS 
+Reset CSS là công việc chúng ta thường làm ngay từ khi bắt đầu xây dựng một trang web.
+Sau này khi muốn một thẻ nào đó trong website có padding hoặc margin chúng ta chỉ cần đặt class và CSS cho thẻ đó như bình thường. 
+Thuộc tính được CSS qua selector * sẽ có độ ưu tiên thấp hơn các selectors khác. */
+* {
+    padding: 0;
+    margin: 0;
+}
